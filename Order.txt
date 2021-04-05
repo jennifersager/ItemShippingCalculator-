@@ -1,0 +1,5 @@
+Your item is                                   WOOD
+Your shipping cost is                     $20.00
+You are shipping to                      MARS
+Your total shipping costs are             $56.49
+                                          Thank You!
